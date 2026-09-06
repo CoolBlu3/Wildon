@@ -12,4 +12,4 @@ Interested in data engineering, backend architecture, and building efficient, sc
 - **Data & Processing:** Polars, Pandas, PostgreSQL
 - **Developer Tools:** Git, Docker
 
-📫 Reach me via https://www.linkedin.com/in/wildon-tan-314a74148/ or email at wildontan.sc@gmail.com
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/wildon-tan-314a74148/) or email at wildontan.sc@gmail.com
